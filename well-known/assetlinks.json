@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.ehabgm.app.islamic",
+      "sha256_cert_fingerprints": [
+        "F3:A9:D4:E5:D7:09:D4:75:5B:D2:F0:FA:CD:C8:EA:B8:D2:DE:A6:F1:F4:00:C7:C7:7D:06:BC:FA:75:B5:65:F1"
+      ]
+    }
+  }
+]
